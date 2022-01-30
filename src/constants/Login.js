@@ -1,0 +1,1 @@
+export const loginCID = process.env.GOOGLE_CLIENT_ID || "624428338992-3a1vfenoarufpir1plr5lrtnlou0h35h.apps.googleusercontent.com"

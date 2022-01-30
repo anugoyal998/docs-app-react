@@ -1,0 +1,1 @@
+export const dbUrl = process.env.MONGODB_URI || "mongodb+srv://anubhav:mrcxVK168cILHhLK@cluster0.o4jbs.mongodb.net/DOCS-APP?retryWrites=true&w=majority"
